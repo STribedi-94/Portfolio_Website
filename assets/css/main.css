@@ -2230,7 +2230,7 @@ body>article {
 #top {
 	padding: 10em 0 10em 0;
 	text-align: left;
-	background: url("/images/mt-evening.jpg") no-repeat center center/cover;
+	background: url("../css/images/mt-evening.jpg") no-repeat center center/cover;
 }
 
 
@@ -2664,7 +2664,7 @@ ul {
 	/* Banner  */
 
 	#banner ::after {
-		background: url("/me-stand2.jpg") no-repeat center center/cover;
+		background: url("../css/images/me-stand2.jpg") no-repeat center center/cover;
 		content: "";
 		background-size: 450px 666px;
 		
